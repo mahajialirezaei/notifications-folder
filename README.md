@@ -1,4 +1,3 @@
----
 
 # Notifications Folder
 
@@ -32,4 +31,3 @@ To start using **Notifications Folder**, run the main program and begin organizi
 Feel free to fork the repository and create pull requests for new features or bug fixes. Contributions are welcome!
 
 
----
